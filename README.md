@@ -1,2 +1,2 @@
 # wolfware-db
-CSC 540 Project
+CSC 540 Project Wolfware
